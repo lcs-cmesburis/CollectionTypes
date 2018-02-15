@@ -38,7 +38,7 @@ for grades in grades {
         highest = grades
     }
 }
-print("The highest grade is \(highest).")
+print("The highest grade is \(highest)%.")
 //: [Next](@next)
 
 //: [Next](@next)
